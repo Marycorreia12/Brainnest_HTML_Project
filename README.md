@@ -1,3 +1,3 @@
-# html_website
+# HTML_PROJECT
 
-https://marycorreia12.github.io/html_website/
+https://marycorreia12.github.io/Brainnest_HTML_Project/
